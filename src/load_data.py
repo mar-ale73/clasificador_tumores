@@ -18,3 +18,4 @@ def cargar_datos(ruta_archivo):
     except Exception as e:
         print(f"Error al cargar los datos: {str(e)}")
         return None
+    
